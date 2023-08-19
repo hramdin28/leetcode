@@ -28,7 +28,7 @@ class FooBarQixTest {
           "51,FooBar",
           "53,BarFoo",
     })
-    void should_return_value_when_compute(String input, String expected){
+    void should_return_value_when_compute(String input, String expected) {
 
         var result = fooBarQix.compute(input);
 

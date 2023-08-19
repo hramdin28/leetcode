@@ -28,6 +28,7 @@ replay_pid*
 *.iws
 *.iml
 *.ipr
+.idea/*
 
 ### maven ###
 *.xml.versionsBackup
